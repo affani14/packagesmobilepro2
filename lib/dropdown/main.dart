@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'DropdownButton2',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('DropdownButton2 Example'),
+          title: Text('DropdownButton2'),
         ),
         body: MyHomePage(),
       ),
